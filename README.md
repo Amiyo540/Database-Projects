@@ -1,1 +1,1 @@
-This is a simple java project of student result recording. Student's results will calculated and recorded.
+This is a simple Java project that records student results. In this system, students' results will calculated and recorded.
